@@ -1,0 +1,41 @@
+<svg width="38" height="38" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 13</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-5872 -6334)">
+<g id="Group 13">
+<g id="Rectangle 35">
+<use xlink:href="#path0_fill" transform="translate(5890 6363)" fill="#00A296"/>
+</g>
+<g id="Combined Shape">
+<use xlink:href="#path1_fill" transform="translate(5880 6368)" fill="#E36761"/>
+</g>
+<g id="Rectangle 38">
+<use xlink:href="#path2_fill" transform="translate(5877 6334)" fill="#028E84"/>
+</g>
+<g id="Rectangle 38">
+<use xlink:href="#path3_fill" transform="translate(5878 6337)" fill="#00A296"/>
+</g>
+<g id="Rectangle 39">
+<use xlink:href="#path4_fill" transform="translate(5882 6355)" fill="#028E84"/>
+</g>
+<g id="Rectangle 37">
+<use xlink:href="#path5_fill" transform="translate(5881 6357)" fill="#00A296"/>
+</g>
+<g id="Rectangle 37">
+<use xlink:href="#path6_fill" transform="matrix(0.707107 -0.707107 0.707107 0.707107 5894 6359.73)" fill="#00A296"/>
+</g>
+<g id="Rectangle 37">
+<use xlink:href="#path6_fill" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 5887.97 6359.73)" fill="#00A296"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 0L 2 0L 2 6L 0 6L 0 0Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 11 0C 17.0752 0 22 1.79102 22 4L 0 4C 0 1.79102 4.9248 0 11 0Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 8C 0 3.58172 3.58172 0 8 0L 20 0C 24.4183 0 28 3.58172 28 8L 28 9.46887C 28 9.81693 27.9092 10.159 27.7365 10.4611L 20 24L 8 24L 0.263514 10.4611C 0.0908307 10.159 0 9.81693 0 9.46887L 0 8Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 0 7C 0 3.13401 3.13401 0 7 0L 19 0C 22.866 0 26 3.13401 26 7L 26 9L 18 23L 8 23L 0 9L 0 7Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 0 0L 18 0L 18 2L 0 2L 0 0Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="M 0 3C 0 1.34315 1.34315 0 3 0L 17 0C 18.6569 0 20 1.34315 20 3C 20 4.65685 18.6569 6 17 6L 3 6C 1.34315 6 0 4.65685 0 3Z"/>
+<path id="path6_fill" fill-rule="evenodd" d="M 0 3C 0 1.34315 1.34315 0 3 0L 15 0C 16.6569 0 18 1.34315 18 3C 18 4.65685 16.6569 6 15 6L 3 6C 1.34315 6 0 4.65685 0 3Z"/>
+</defs>
+</svg>
