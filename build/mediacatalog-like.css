@@ -1,0 +1,28 @@
+.mediacatalog-like {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    font-size: 13px;
+    color: #8C8C8C;
+    text-decoration: none;
+}
+
+.mediacatalog-like::before {
+    content: '';
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    vertical-align: middle;
+    margin-right: 5px;
+    background: url("../images/icons/icon-thumb-up-white.svg") no-repeat center #00A296;
+}
+
+.mediacatalog-like:hover {
+    color: #00A296;
+}
+
+/*# sourceMappingURL=mediacatalog-like.css.map */

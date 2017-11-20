@@ -4,11 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "./node_modules/gulp/bin/gulp.js",
+    "dev": "./node_modules/gulp/bin/gulp.js dev"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "autoprefixer": "^7.1.6",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sourcemaps": "^2.6.1",
     "jquery": "^3.2.1",
     "normalize.css": "^7.0.0",
     "slick-carousel": "^1.8.1"
