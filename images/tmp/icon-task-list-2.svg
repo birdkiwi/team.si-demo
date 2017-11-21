@@ -1,0 +1,18 @@
+<svg width="29" height="29" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 18</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-7852 -5937)">
+<g id="Group 18">
+<g id="Image Placeholder">
+<use xlink:href="#path0_fill" transform="translate(7852 5937)" fill="#5ED1ED"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_fill" transform="translate(7859.5 5943)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 6.5C 0 2.91015 2.91015 0 6.5 0L 22.5 0C 26.0899 0 29 2.91015 29 6.5L 29 22.5C 29 26.0899 26.0899 29 22.5 29L 6.5 29C 2.91015 29 0 26.0899 0 22.5L 0 6.5Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 7.125 0L 0 3.16667L 0 7.91667C 0 12.3104 3.04 16.4192 7.125 17.4167C 11.21 16.4192 14.25 12.3104 14.25 7.91667L 14.25 3.16667L 7.125 0ZM 5.54167 12.6665L 2.375 9.49982L 3.49125 8.38357L 5.54167 10.4261L 10.7587 5.20898L 11.875 6.33315L 5.54167 12.6665Z"/>
+</defs>
+</svg>

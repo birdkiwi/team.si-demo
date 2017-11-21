@@ -1,0 +1,36 @@
+<svg width="40" height="40" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>task-icon-1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-8155 -6078)">
+<g id="task-icon-1">
+<g id="Oval 3" opacity="0.7">
+<use xlink:href="#path0_fill" transform="translate(8155 6078)" fill="#FFDFB2"/>
+</g>
+<g id="Group 9">
+<g id="Fill 3">
+<use xlink:href="#path1_fill" transform="translate(8176.59 6092.53)" fill="#FF9500"/>
+</g>
+<g id="Fill 4">
+<use xlink:href="#path2_fill" transform="translate(8162.34 6088.77)" fill="#FF9500"/>
+</g>
+<g id="Fill 5">
+<use xlink:href="#path3_fill" transform="translate(8176.59 6099.83)" fill="#E1585C"/>
+</g>
+<g id="Fill 6">
+<use xlink:href="#path4_fill" transform="translate(8161.35 6088.62)" fill="#E1585C"/>
+</g>
+<g id="Fill 7">
+<use xlink:href="#path5_fill" transform="translate(8160.73 6087.69)" fill="#E1585C"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 20 40C 31.0457 40 40 31.0457 40 20C 40 8.9543 31.0457 0 20 0C 8.9543 0 0 8.9543 0 20C 0 31.0457 8.9543 40 20 40Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 15.037 10.3266C 12.377 9.23247 10.1186 7.99058 7.80759 6.27662C 9.38843 4.31721 10.7615 2.36266 11.6881 0C 7.59403 1.0724 4.0937 1.07208 0 0L 0 11.1091C 5.04227 12.0399 9.88069 11.7799 15.037 10.3266Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 1.61489C 1.11644 5.05742 2.23287 8.49963 3.34963 11.9422C 8.60514 10.4876 13.371 10.4873 18.6271 11.9422L 18.6271 0.787614C 12.3838 -0.48901 6.32139 -0.21401 0 1.61489Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 0 3.80519C 0.872083 0.776623 4.37208 0.882143 4.37208 0.882143C 2.88264 0.469481 1.43338 0.178247 0 0L 0 3.80519Z"/>
+<path id="path4_fill" fill-rule="evenodd" d="M 7.46958 23.563L 0 0.298377L 0.925231 0L 8.39481 23.2646L 7.46958 23.563Z"/>
+<path id="path5_fill" fill-rule="evenodd" d="M 0 1.08604C 0 0.486364 0.485463 0 1.0837 0C 1.68227 0 2.16773 0.486364 2.16773 1.08604C 2.16773 1.68539 1.68227 2.17175 1.0837 2.17175C 0.485463 2.17175 0 1.68539 0 1.08604Z"/>
+</defs>
+</svg>
