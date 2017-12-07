@@ -1,0 +1,47 @@
+<svg width="58" height="57" viewBox="0 0 58 57" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Canvas" transform="translate(-5238 1453)">
+        <g id="Group 10">
+            <g id="Rectangle 35">
+                <use xlink:href="#path0_fill" transform="translate(5265 -1409)" fill="#596273"/>
+            </g>
+            <g id="Combined Shape">
+                <use xlink:href="#path1_fill" transform="translate(5250.5 -1402)" fill="#596273"/>
+            </g>
+            <g id="Rectangle 38">
+                <use xlink:href="#path2_fill" transform="translate(5246 -1453)" fill="#FE696D"/>
+            </g>
+            <g id="Rectangle 38">
+                <use xlink:href="#path3_fill" transform="translate(5247.5 -1448)" fill="#E36761"/>
+            </g>
+            <g id="Rectangle 39">
+                <use xlink:href="#path4_fill" transform="translate(5253.5 -1421)" fill="#BC524C"/>
+            </g>
+            <g id="Rectangle 37">
+                <use xlink:href="#path5_fill" transform="translate(5252 -1418)" fill="#E36761"/>
+            </g>
+            <g id="Rectangle 37">
+                <use xlink:href="#path6_fill" transform="matrix(0.707107 -0.707107 0.707107 0.707107 5271.5 -1413.91)"
+                     fill="#E36761"/>
+            </g>
+            <g id="Rectangle 37">
+                <use xlink:href="#path6_fill"
+                     transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 5262.46 -1413.91)" fill="#E36761"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <path id="path0_fill" fill-rule="evenodd" d="M 0 0L 4 0L 4 9L 0 9L 0 0Z"/>
+        <path id="path1_fill" fill-rule="evenodd"
+              d="M 16.5 0C 25.6128 0 33 2.68628 33 6L 0 6C 0 2.68628 7.38721 0 16.5 0Z"/>
+        <path id="path2_fill" fill-rule="evenodd"
+              d="M 0 8C 0 3.58172 3.58172 0 8 0L 34 0C 38.4183 0 42 3.58172 42 8L 42 14.4689C 42 14.8169 41.9092 15.159 41.7365 15.4611L 30 36L 12 36L 0.263514 15.4611C 0.0908307 15.159 0 14.8169 0 14.4689L 0 8Z"/>
+        <path id="path3_fill" fill-rule="evenodd"
+              d="M 0 7C 0 3.13401 3.13401 0 7 0L 32 0C 35.866 0 39 3.13401 39 7L 39 13.5L 27 34.5L 12 34.5L 0 13.5L 0 7Z"/>
+        <path id="path4_fill" fill-rule="evenodd" d="M 0 0L 27 0L 27 3L 0 3L 0 0Z"/>
+        <path id="path5_fill" fill-rule="evenodd"
+              d="M 0 4.5C 0 2.01472 2.01472 0 4.5 0L 25.5 0C 27.9853 0 30 2.01472 30 4.5C 30 6.98528 27.9853 9 25.5 9L 4.5 9C 2.01472 9 0 6.98528 0 4.5Z"/>
+        <path id="path6_fill" fill-rule="evenodd"
+              d="M 0 4.5C 0 2.01472 2.01472 0 4.5 0L 22.5 0C 24.9853 0 27 2.01472 27 4.5C 27 6.98528 24.9853 9 22.5 9L 4.5 9C 2.01472 9 0 6.98528 0 4.5Z"/>
+    </defs>
+</svg>

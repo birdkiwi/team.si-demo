@@ -1,12 +1,11 @@
 .mediacatalog-like {
-    display: flex;
-    align-items: center;
-    font-size: 13px;
-    color: #8C8C8C;
-    text-decoration: none;
-}
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+  color: #8C8C8C;
+  text-decoration: none;
 
-.mediacatalog-like::before {
+  &::before {
     content: '';
     display: inline-block;
     width: 20px;
@@ -15,8 +14,9 @@
     vertical-align: middle;
     margin-right: 5px;
     background: url("../images/icons/icon-thumb-up-white.svg") no-repeat center #00A296;
-}
+  }
 
-.mediacatalog-like:hover {
+  &:hover {
     color: #00A296;
+  }
 }

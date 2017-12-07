@@ -1,0 +1,50 @@
+<svg width="56" height="53" viewBox="0 0 56 53" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Canvas" transform="translate(-5056 1233)">
+        <g id="Group 14">
+            <g id="Rectangle 53">
+                <use xlink:href="#path0_fill" transform="translate(5056 -1233)" fill="#E36761"/>
+            </g>
+            <g id="Rectangle 54">
+                <use xlink:href="#path1_fill" transform="translate(5056 -1225)" fill="#FFFFFF"/>
+            </g>
+            <g id="Fill 1">
+                <use xlink:href="#path2_fill" transform="translate(5084 -1196)" fill="#E36761"/>
+            </g>
+            <g id="Rectangle 47">
+                <use xlink:href="#path3_fill" transform="translate(5062 -1219)" fill="#C7C7CC"/>
+            </g>
+            <g id="Rectangle 47">
+                <use xlink:href="#path4_fill" transform="translate(5069 -1219)" fill="#C7C7CC"/>
+            </g>
+            <g id="Rectangle 47">
+                <use xlink:href="#path3_fill" transform="translate(5062 -1211)" fill="#C7C7CC"/>
+            </g>
+            <g id="Rectangle 47">
+                <use xlink:href="#path4_fill" transform="translate(5069 -1211)" fill="#C7C7CC"/>
+            </g>
+            <g id="Rectangle 47">
+                <use xlink:href="#path3_fill" transform="translate(5062 -1203)" fill="#C7C7CC"/>
+            </g>
+            <g id="Rectangle 47">
+                <use xlink:href="#path4_fill" transform="translate(5069 -1203)" fill="#C7C7CC"/>
+            </g>
+            <g id="Rectangle 47">
+                <use xlink:href="#path3_fill" transform="translate(5062 -1195)" fill="#C7C7CC"/>
+            </g>
+            <g id="Rectangle 47">
+                <use xlink:href="#path5_fill" transform="translate(5069 -1195)" fill="#C7C7CC"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <path id="path0_fill" fill-rule="evenodd" d="M 0 0L 49 0L 49 8L 0 8L 0 0Z"/>
+        <path id="path1_fill" fill-rule="evenodd"
+              d="M 0 0L 48.9151 0L 48.9151 27.3333C 48.9151 27.3333 50.2738 26.65 42.1213 26.65C 33.9688 26.65 29.2132 31.4333 25.1369 37.5833C 25.8163 38.95 27.175 41 27.175 41L 0 41L 0 0Z"/>
+        <path id="path2_fill" fill-rule="evenodd"
+              d="M 13.9999 0C 8.65028 0 3.79885 2.80568 0.219031 7.36311C -0.0730103 7.73634 -0.0730103 8.25803 0.219031 8.63153C 3.79885 13.194 8.65028 16 13.9999 16C 19.3498 16 24.201 13.194 27.7808 8.63689C 28.0731 8.26338 28.0731 7.74197 27.7808 7.36847C 24.201 2.80568 19.3498 0 13.9999 0ZM 14.3908 13.9878C 10.7727 14.2154 7.78453 11.233 8.01221 7.60888C 8.19889 4.62077 10.6208 2.19891 13.6089 2.01223C 17.2274 1.78455 20.2152 4.76667 19.9878 8.39112C 19.7952 11.3732 17.3733 13.7951 14.3908 13.9878ZM 14.1925 10.9939C 12.3827 11.1076 10.8876 9.61743 11.0067 7.80766C 11.0987 6.31219 12.3124 5.10378 13.8075 5.00611C 15.6173 4.89238 17.1124 6.38257 16.9933 8.19234C 16.8958 9.69343 15.6823 10.9018 14.1925 10.9939Z"/>
+        <path id="path3_fill" fill-rule="evenodd" d="M 0 0L 4 0L 4 4L 0 4L 0 0Z"/>
+        <path id="path4_fill" fill-rule="evenodd" d="M 0 0L 30 0L 30 4L 0 4L 0 0Z"/>
+        <path id="path5_fill" fill-rule="evenodd" d="M 0 0L 14 0L 14 4L 0 4L 0 0Z"/>
+    </defs>
+</svg>

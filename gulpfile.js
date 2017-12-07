@@ -1,8 +1,11 @@
-var gulp = require('gulp');
-var postcss = require('gulp-postcss');
-var sourcemaps = require('gulp-sourcemaps');
-var clean = require('gulp-clean');
-var autoprefixer = require('autoprefixer');
+var gulp = require('gulp'),
+    rename = require('gulp-rename'),
+    postcss = require('gulp-postcss'),
+    sourcemaps = require('gulp-sourcemaps'),
+    clean = require('gulp-clean'),
+    autoprefixer = require('autoprefixer'),
+    postcssNested = require('postcss-nested'),
+    postcssImport = require('postcss-import');
 
 gulp.task('clean', function () {
     return gulp.src('./build', {read: false})
@@ -10,16 +13,17 @@ gulp.task('clean', function () {
 });
 
 gulp.task('styles', function () {
-    return gulp.src('./css/*.css')
+    return gulp.src('./pcss/style.pcss')
         .pipe(sourcemaps.init())
-        .pipe(postcss([ autoprefixer() ]))
+        .pipe(postcss([ postcssImport(), postcssNested(), autoprefixer() ]))
         .pipe(sourcemaps.write('.'))
+        .pipe(rename('style.css'))
         .pipe(gulp.dest('./build'));
 });
 
 gulp.task('dev', ['clean'], function () {
     gulp.start('styles');
-    gulp.watch('./css/**/*.css', ['styles']);
+    gulp.watch('./pcss/**/*.pcss', ['styles']);
 });
 
 gulp.task('default', ['clean'], function () {

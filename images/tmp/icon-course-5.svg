@@ -1,0 +1,41 @@
+<svg width="90" height="53" viewBox="0 0 90 53" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Canvas" transform="translate(-5040 1014)">
+        <g id="Group 26">
+            <g id="Group 25">
+                <g id="Rectangle 55">
+                    <use xlink:href="#path0_fill" transform="translate(5046 -1014)" fill="#FFFFFF"/>
+                    <mask id="mask0_outline_ins">
+                        <use xlink:href="#path0_fill" fill="white" transform="translate(5046 -1014)"/>
+                    </mask>
+                    <g mask="url(#mask0_outline_ins)">
+                        <use xlink:href="#path1_stroke_2x" transform="translate(5046 -1014)" fill="#E36761"/>
+                    </g>
+                </g>
+                <g id="Rectangle 56">
+                    <use xlink:href="#path2_fill" transform="translate(5040 -965)" fill="#596273"/>
+                </g>
+                <g id="Rectangle 56">
+                    <use xlink:href="#path3_fill" transform="translate(5040 -968)" fill="#596273"/>
+                </g>
+            </g>
+            <g id="Path 3">
+                <use xlink:href="#path4_stroke" transform="translate(5055 -998.5)" fill="#C7C7CC"/>
+            </g>
+            <g id="Path 3">
+                <use xlink:href="#path5_stroke" transform="translate(5055 -1006)" fill="#E36761"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <path id="path0_fill" fill-rule="evenodd" d="M 0 0L 78 0L 78 46L 0 46L 0 0Z"/>
+        <path id="path1_stroke_2x"
+              d="M 0 0L 0 -3L -3 -3L -3 0L 0 0ZM 78 0L 81 0L 81 -3L 78 -3L 78 0ZM 78 46L 78 49L 81 49L 81 46L 78 46ZM 0 46L -3 46L -3 49L 0 49L 0 46ZM 0 3L 78 3L 78 -3L 0 -3L 0 3ZM 75 0L 75 46L 81 46L 81 0L 75 0ZM 78 43L 0 43L 0 49L 78 49L 78 43ZM 3 46L 3 0L -3 0L -3 46L 3 46Z"/>
+        <path id="path2_fill" fill-rule="evenodd" d="M 0 0L 90 0L 90 4L 0 4L 0 0Z"/>
+        <path id="path3_fill" fill-rule="evenodd" d="M 5.625 0L 84.375 0L 90 3L 0 3L 5.625 0Z"/>
+        <path id="path4_stroke"
+              d="M 16 11L 16.1644 10.0136L 15.8038 9.95351L 15.4895 10.1401L 16 11ZM 37 14.5L 36.8356 15.4864L 37.2112 15.549L 37.5333 15.3459L 37 14.5ZM 0.510539 21.3599L 16.5105 11.8599L 15.4895 10.1401L -0.510539 19.6401L 0.510539 21.3599ZM 15.8356 11.9864L 36.8356 15.4864L 37.1644 13.5136L 16.1644 10.0136L 15.8356 11.9864ZM 37.5333 15.3459L 60.5333 0.845926L 59.4667 -0.845926L 36.4667 13.6541L 37.5333 15.3459Z"/>
+        <path id="path5_stroke"
+              d="M 15.8 12.4667L 16.3654 11.6419L 15.6862 11.1762L 15.0989 11.7536L 15.8 12.4667ZM 37 27L 36.4346 27.8248L 37.1773 28.334L 37.7612 27.6485L 37 27ZM 0.701063 28.7131L 16.5011 13.1798L 15.0989 11.7536L -0.701063 27.2869L 0.701063 28.7131ZM 15.2346 13.2915L 36.4346 27.8248L 37.5654 26.1752L 16.3654 11.6419L 15.2346 13.2915ZM 37.7612 27.6485L 60.7612 0.648466L 59.2388 -0.648466L 36.2388 26.3515L 37.7612 27.6485Z"/>
+    </defs>
+</svg>

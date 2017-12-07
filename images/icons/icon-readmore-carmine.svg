@@ -1,0 +1,24 @@
+<svg width="9" height="7" viewBox="0 0 9 7" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Canvas" transform="translate(-5592 1160)">
+        <g id="Group 23">
+            <g id="Group 3">
+                <g id="Path 3">
+                    <use xlink:href="#path0_stroke" transform="translate(5597.5 -1159.5)" fill="#E16262"/>
+                </g>
+                <g id="Path 3">
+                    <use xlink:href="#path0_stroke" transform="matrix(1 0 0 -1 5597.5 -1153.5)" fill="#E16262"/>
+                </g>
+            </g>
+            <g id="Rectangle 46">
+                <use xlink:href="#path1_fill" transform="translate(5592 -1157)" fill="#E16262"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <path id="path0_stroke"
+              d="M 0.353553 -0.353553C 0.158291 -0.548816 -0.158291 -0.548816 -0.353553 -0.353553C -0.548816 -0.158291 -0.548816 0.158291 -0.353553 0.353553L 0.353553 -0.353553ZM 2.64645 3.35355C 2.84171 3.54882 3.15829 3.54882 3.35355 3.35355C 3.54882 3.15829 3.54882 2.84171 3.35355 2.64645L 2.64645 3.35355ZM -0.353553 0.353553L 2.64645 3.35355L 3.35355 2.64645L 0.353553 -0.353553L -0.353553 0.353553Z"/>
+        <path id="path1_fill" fill-rule="evenodd"
+              d="M 0 0.5C 0 0.223858 0.223858 0 0.5 0L 7.5 0C 7.77614 0 8 0.223858 8 0.5C 8 0.776142 7.77614 1 7.5 1L 0.5 1C 0.223858 1 0 0.776142 0 0.5Z"/>
+    </defs>
+</svg>

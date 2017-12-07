@@ -1,0 +1,107 @@
+<svg width="59" height="54" viewBox="0 0 59 54" version="1.1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Canvas" transform="translate(-5052 1453)">
+        <g id="Group 20">
+            <g id="Rectangle 46">
+                <use xlink:href="#path0_fill" transform="translate(5084 -1450)" fill="#E36761"/>
+            </g>
+            <g id="Rectangle 46">
+                <use xlink:href="#path0_fill" transform="translate(5052 -1450)" fill="#BC524C"/>
+            </g>
+            <g id="Group 19" opacity="0.8">
+                <g id="Rectangle 47">
+                    <use xlink:href="#path1_fill" transform="translate(5089 -1445)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path1_fill" transform="translate(5089 -1439)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path2_fill" transform="translate(5089 -1425.71)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path3_fill" transform="translate(5093.5 -1427)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path2_fill" transform="translate(5089 -1420.36)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path3_fill" transform="translate(5093.5 -1421)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path2_fill" transform="translate(5089 -1415)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path3_fill" transform="translate(5093.5 -1415)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path2_fill" transform="translate(5089 -1409.64)" fill="#FFFFFF"/>
+                </g>
+            </g>
+            <g id="Rectangle 47" opacity="0.7">
+                <use xlink:href="#path1_fill" transform="translate(5056 -1445)" fill="#FFFFFF"/>
+            </g>
+            <g id="Rectangle 47" opacity="0.7">
+                <use xlink:href="#path1_fill" transform="translate(5056 -1439)" fill="#FFFFFF"/>
+            </g>
+            <g id="Rectangle 47" opacity="0.7">
+                <use xlink:href="#path4_fill" transform="translate(5056 -1427)" fill="#FFFFFF"/>
+            </g>
+            <g id="Rectangle 47" opacity="0.7">
+                <use xlink:href="#path3_fill" transform="translate(5061 -1427)" fill="#FFFFFF"/>
+            </g>
+            <g id="Rectangle 47" opacity="0.7">
+                <use xlink:href="#path4_fill" transform="translate(5056 -1421)" fill="#FFFFFF"/>
+            </g>
+            <g id="Rectangle 47" opacity="0.7">
+                <use xlink:href="#path3_fill" transform="translate(5061 -1421)" fill="#FFFFFF"/>
+            </g>
+            <g id="Rectangle 46">
+                <use xlink:href="#path5_fill" transform="translate(5068 -1453)" fill="#FE696D"/>
+            </g>
+            <g id="Group 12">
+                <g id="Rectangle 47">
+                    <use xlink:href="#path6_fill" transform="translate(5072 -1445)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path6_fill" transform="translate(5072 -1439)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path4_fill" transform="translate(5072 -1427)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path7_fill" transform="translate(5077 -1427)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path4_fill" transform="translate(5072 -1421)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path7_fill" transform="translate(5077 -1421)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path4_fill" transform="translate(5072 -1415)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path7_fill" transform="translate(5077 -1415)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path4_fill" transform="translate(5072 -1409)" fill="#FFFFFF"/>
+                </g>
+                <g id="Rectangle 47">
+                    <use xlink:href="#path7_fill" transform="translate(5077 -1409)" fill="#FFFFFF"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <path id="path0_fill" fill-rule="evenodd"
+              d="M 0 2C 0 0.895431 0.895431 0 2 0L 25 0C 26.1046 0 27 0.895431 27 2L 27 46C 27 47.1046 26.1046 48 25 48L 2 48C 0.895431 48 0 47.1046 0 46L 0 2Z"/>
+        <path id="path1_fill" fill-rule="evenodd" d="M 0 0L 18 0L 18 3L 0 3L 0 0Z"/>
+        <path id="path2_fill" fill-rule="evenodd" d="M 0 0L 2.14286 0L 2.14286 2.14286L 0 2.14286L 0 0Z"/>
+        <path id="path3_fill" fill-rule="evenodd" d="M 0 0L 13.5 0L 13.5 3L 0 3L 0 0Z"/>
+        <path id="path4_fill" fill-rule="evenodd" d="M 0 0L 3 0L 3 3L 0 3L 0 0Z"/>
+        <path id="path5_fill" fill-rule="evenodd"
+              d="M 0 2C 0 0.895431 0.895431 0 2 0L 25 0C 26.1046 0 27 0.895431 27 2L 27 52C 27 53.1046 26.1046 54 25 54L 2 54C 0.895431 54 0 53.1046 0 52L 0 2Z"/>
+        <path id="path6_fill" fill-rule="evenodd" d="M 0 0L 19 0L 19 3L 0 3L 0 0Z"/>
+        <path id="path7_fill" fill-rule="evenodd" d="M 0 0L 14 0L 14 3L 0 3L 0 0Z"/>
+    </defs>
+</svg>
