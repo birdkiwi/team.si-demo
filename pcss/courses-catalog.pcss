@@ -12,19 +12,18 @@
 
 .courses-catalog-cell {
   flex: 1 1 20%;
+  max-width: 20%;
   display: flex;
   padding: 5px;
 
   @media (max-width: 768px) {
-    .courses-catalog-cell {
-      flex-basis: 33.3333%;
-    }
+    flex-basis: 33.3333%;
+    max-width: 33.3333%;
   }
 
   @media (max-width: 599px) {
-    .courses-catalog-cell {
-      flex-basis: 50%;
-    }
+    flex-basis: 50%;
+    max-width: 50%;
   }
 }
 
